@@ -1,0 +1,6 @@
+clean the data
+analyze the data and build your insights
+build your model 
+deploy the model using streamlet
+
+note : your code must be clean and commented  
